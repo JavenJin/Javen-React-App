@@ -2,7 +2,7 @@
   "name": "javen-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://javenjin.github.io/javen-react-app",
+  "homepage": "https://javenjin.github.io/Javen-React-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
