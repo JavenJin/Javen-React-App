@@ -23,7 +23,19 @@ export default class Weather extends React.PureComponent {
 
     render() {
         return (
-            <div>{this.state.weather}</div>
+            <div>
+                <p>
+                    {this.state.weather}
+                </p>
+                <a
+					className="App-link"
+					href="https://wttr.in/Xian"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					Get more weather
+				</a>
+            </div>
         )
     }
 }
